@@ -9,7 +9,6 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/geeta-padhi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:padhi.geetha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -21,7 +20,7 @@ I'm a Business Intelligence and Data Analyst with 5.5+ years of experience turni
       
 ## 🔭 What I'm Currently Working On 
 
-📊 Retail Analytics Dashboards: Building interactive Power BI/Excel dashboards analyzing sales performance, channel mix (Online vs In-Store), and product correlation for market basket analysis.
+<a>📊 Retail Analytics Dashboards: Building interactive Power BI/Excel dashboards analyzing sales performance, channel mix (Online vs In-Store), and product correlation for market basket analysis.</a>
 🎫 Application Support: Managing dashboard reliability and end-user support
 📈 DAX & Data Modeling: Refining scalable data models and hierarchies to improve reporting accuracy and performance
 
