@@ -21,7 +21,6 @@ I'm a Business Intelligence and Data Analyst with 5.5+ years of experience turni
 ## 🔭 What I'm Currently Working On 
 
 📊 Retail Analytics Dashboards: 📊 Retail Analytics (Target & Woolworths Dashboards): Building interactive Excel dashboards analyzing sales performance, channel mix (Online vs In-Store), and product correlation for market basket analysis.<br>
-https://github.com/padhigeetha-cpu/Target-Sales-Dashboard-Online-vs-In-Store-Performance-Analysis                                <a href= "https://github.com/padhigeetha-cpu/Woolworths-Executive-Sales-Dashboard"></a><br>
 📈 DAX & Data Modeling: Refining scalable data models and hierarchies to improve reporting accuracy and performance.<br>
 🎫 Application Support: Managing dashboard reliability and end-user support. <br>
 
