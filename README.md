@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Geeta Padhi 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,35 +8,53 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/geeta-padhi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:padhi.geetha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm a Business Intelligence and Data Analyst with 5.5+ years of experience turning messy enterprise data into dashboards people actually use. I've worked across finance, procurement, inventory, manufacturing, warehousing, and supply chain — basically anywhere ERP systems and spreadsheets pile up faster than anyone can make sense of them. I love building Power BI and Infor BIRST dashboards that don't just sit in a folder, integrating data across SQL Server, ERP systems, and APIs to get one consolidated source of truth, and working closely with stakeholders from requirements gathering all the way through UAT and deployment. When I'm not building reports, you'll find me digging into SQL queries or figuring out how to automate yet another manual process. There's something genuinely satisfying about watching a dashboard replace three spreadsheets and an email chain.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website]https://github.com/padhigeetha-cpu
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+📊 Retail Analytics Dashboards: Building interactive Power BI/Excel dashboards analyzing sales performance, channel mix (Online vs In-Store), and product correlation for market basket analysis
+🏭 ERP & Data Integration: Streamlining data flow across finance, procurement, and inventory systems using Enterprise Integrator and ION Cloud
+🎫 Application Support: Managing dashboard reliability and end-user support via ServiceNow and JIRA
+📈 DAX & Data Modeling: Refining scalable data models and hierarchies to improve reporting accuracy and performance
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+Cloud & Modern BI Platforms: Deepening hands-on experience with Azure data services and modern data lake architectures to complement my Infor BIRST and Power BI background
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+### Data Visualization & Analysis
+Power BI Expert,     Infor d/EPM Advanced   Excel Advanced
+
+### Databases
+Microsoft SQL Server Advanced,   PostgreSQL Intermediate
+
+### ERP & Integration
+Infor XA (MAPICS) Advanced   Infor ION Advanced   ION Cloud Intermediate   Enterprise Integrator Advanced   Data Lake Intermediate
+
+### ITSM & Monitoring
+ServiceNow Advanced   JIRA Advanced   New Relic Intermediate   DEVO Intermediate
+
+### Technical Skills
+SQL Expert   DAX Advanced   APIs Intermediate   JSON Intermediate   Postman Intermediate
+
+### Methodologies
+Agile Advanced   Waterfall Advanced   ITIL Intermediate
+
+### Microsoft Tools
+Excel Advanced   Word Advanced   PowerPoint Advanced, Infor BIRST 
+
+### Domain Knowledge
+Finance   Procurement   Inventory Management   Manufacturing   Warehousing   Supply Chain
 
 #### Data Analysis & Visualization
 <p>
