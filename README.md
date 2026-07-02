@@ -30,30 +30,14 @@ I'm a Business Intelligence and Data Analyst with 5.5+ years of experience turni
 -Cloud & Modern BI Platforms: Deepening hands-on experience with Azure data services and modern data lake architectures to complement my Infor BIRST and Power BI background
 
 ## 🛠️ Technical Skillset
-
-
-
-
-
-### ERP & Integration
-Infor XA (MAPICS) Advanced   Infor ION Advanced   ION Cloud Intermediate   Enterprise Integrator Advanced   Data Lake Intermediate
-
-### ITSM & Monitoring
-ServiceNow Advanced   JIRA Advanced   New Relic Intermediate   DEVO Intermediate
-
-### Technical Skills
-SQL Expert   DAX Advanced   APIs Intermediate   JSON Intermediate   Postman Intermediate
-
-### Methodologies
-Agile Advanced   Waterfall Advanced   ITIL Intermediate
-
-### Domain Knowledge
-
 <p>
-  <img src="https://img.shields.io/badge/Finance-3776AB?style=flat&logo=python&logoColor=white" alt="Finance Skill Badge">
-  <img src="https://img.shields.io/badge/Procurement-276DC3?style=flat&logo=r&logoColor=white" alt="Procurement Skill Badge">
-</p>
-Finance      Inventory Management   Warehousing   
+  <!-- 💡 Go to Shields.io to create your own badges -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black" alt="DAX Skill Badge">
+  <img src="https://img.shields.io/badge/APIs-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="APIs Skill Badge">
+  <img src="https://img.shields.io/badge/Postman-E97627?style=flat&logo=tableau&logoColor=white" alt="Postman Skill Badge">
+  <img src="https://img.shields.io/badge/JSON-E97627?style=flat&logo=tableau&logoColor=white" alt="JSON Skill Badge">
+</p>             
 
 #### Data Analysis & Visualization
 <p>
@@ -77,3 +61,17 @@ Finance      Inventory Management   Warehousing  
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+### Domain Knowledge
+<p>
+  <img src="https://img.shields.io/badge/Finance-3776AB?style=flat&logo=python&logoColor=white" alt="Finance Skill Badge">
+  <img src="https://img.shields.io/badge/Procurement-276DC3?style=flat&logo=r&logoColor=white" alt="Procurement Skill Badge">
+  <img src="https://img.shields.io/badge/Inventory Management-3776AB?style=flat&logo=python&logoColor=white" alt="Inventory Management Skill Badge">
+  <img src="https://img.shields.io/badge/Warehousing-276DC3?style=flat&logo=r&logoColor=white" alt="Warehousing Skill Badge">
+</p> 
+
+### ERP & Integration
+Infor XA (MAPICS)    Infor ION    ION Cloud    Enterprise Integrator    Data Lake 
+
+### ITSM & Monitoring
+ServiceNow    JIRA    New Relic    DEVO 
