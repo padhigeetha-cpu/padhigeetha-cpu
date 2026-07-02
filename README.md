@@ -29,7 +29,6 @@ I'm a Business Intelligence and Data Analyst with 5.5+ years of experience turni
 -Cloud & Modern BI Platforms: Deepening hands-on experience with Azure data services and modern data lake architectures to complement my Infor BIRST and Power BI background
 
 ## 🛠️ Technical Skillset
-         
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
