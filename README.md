@@ -17,26 +17,23 @@
 I'm a Business Intelligence and Data Analyst with 5.5+ years of experience turning messy enterprise data into dashboards people actually use. I've worked across finance, procurement, inventory, manufacturing, warehousing, and supply chain — basically anywhere ERP systems and spreadsheets pile up faster than anyone can make sense of them. I love building Power BI and Infor BIRST dashboards that don't just sit in a folder, integrating data across SQL Server, ERP systems, and APIs to get one consolidated source of truth, and working closely with stakeholders from requirements gathering all the way through UAT and deployment. When I'm not building reports, you'll find me digging into SQL queries or figuring out how to automate yet another manual process. There's something genuinely satisfying about watching a dashboard replace three spreadsheets and an email chain.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]https://github.com/padhigeetha-cpu
+### [🏆 Check Out My Full Portfolio Website](https://www.datascienceportfol.io/geetapadhi)
       
 ## 🔭 What I'm Currently Working On 
 
-📊 Retail Analytics Dashboards: Building interactive Power BI/Excel dashboards analyzing sales performance, channel mix (Online vs In-Store), and product correlation for market basket analysis
-🏭 ERP & Data Integration: Streamlining data flow across finance, procurement, and inventory systems using Enterprise Integrator and ION Cloud
-🎫 Application Support: Managing dashboard reliability and end-user support via ServiceNow and JIRA
+📊 Retail Analytics Dashboards: Building interactive Power BI/Excel dashboards analyzing sales performance, channel mix (Online vs In-Store), and product correlation for market basket analysis.
+🎫 Application Support: Managing dashboard reliability and end-user support
 📈 DAX & Data Modeling: Refining scalable data models and hierarchies to improve reporting accuracy and performance
 
 ## 🌱 Currently Learning 
 
-Cloud & Modern BI Platforms: Deepening hands-on experience with Azure data services and modern data lake architectures to complement my Infor BIRST and Power BI background
+-Cloud & Modern BI Platforms: Deepening hands-on experience with Azure data services and modern data lake architectures to complement my Infor BIRST and Power BI background
 
 ## 🛠️ Technical Skillset
 
-### Data Visualization & Analysis
-Power BI Expert,     Infor d/EPM Advanced   Excel Advanced
 
-### Databases
-Microsoft SQL Server Advanced,   PostgreSQL Intermediate
+
+
 
 ### ERP & Integration
 Infor XA (MAPICS) Advanced   Infor ION Advanced   ION Cloud Intermediate   Enterprise Integrator Advanced   Data Lake Intermediate
@@ -50,11 +47,13 @@ SQL Expert   DAX Advanced   APIs Intermediate   JSON Intermediate   Postman 
 ### Methodologies
 Agile Advanced   Waterfall Advanced   ITIL Intermediate
 
-### Microsoft Tools
-Excel Advanced   Word Advanced   PowerPoint Advanced, Infor BIRST 
-
 ### Domain Knowledge
-Finance   Procurement   Inventory Management   Manufacturing   Warehousing   Supply Chain
+
+<p>
+  <img src="https://img.shields.io/badge/Finance-3776AB?style=flat&logo=python&logoColor=white" alt="Finance Skill Badge">
+  <img src="https://img.shields.io/badge/Procurement-276DC3?style=flat&logo=r&logoColor=white" alt="Procurement Skill Badge">
+</p>
+Finance      Inventory Management   Warehousing   
 
 #### Data Analysis & Visualization
 <p>
