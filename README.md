@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;;[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -35,8 +35,7 @@ I'm a Business Intelligence and Data Analyst with 5.5+ years of experience turni
   <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black" alt="DAX Skill Badge">
   <img src="https://img.shields.io/badge/APIs-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="APIs Skill Badge">
   <img src="https://img.shields.io/badge/Postman-E97627?style=flat&logo=tableau&logoColor=white" alt="Postman Skill Badge">
-  <img src="https://img.shields.io/badge/JSON-E97627?style=flat&logo=tableau&logoColor=white" alt="JSON Skill Badge">
-</p>             
+  <img src="https://img.shields.io/badge/JSON-E97627?style=flat&logo=tableau&logoColor=white" alt="JSON Skill Badge"> </p>             
 
 #### Data Analysis & Visualization
 <p>
